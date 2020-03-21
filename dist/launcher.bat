@@ -1,0 +1,1 @@
+java -jar C:\Users\Angel\Desktop\UrbaServer\UrbaServer\dist\UrbaServer.jar
